@@ -1,13 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ad5bbc0a-002a-438c-ad4c-b4b85492b41a" name="dev" url="http://dev.car.mobadme.jp/">
-        <fileTransfer host="10.4.47.14" port="22" rootFolder="/home/www/htdocs/dev.ajmp.jp/spg/spnew/" accessType="SFTP" password="dfcedf98df9cdfd8dfe9dfd8dfd9dfef" username="careward">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="ac7725ea-59cd-45e4-86e9-ea3f4e584171" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
