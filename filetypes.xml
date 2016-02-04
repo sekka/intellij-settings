@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <removed_mapping ext="tpl" type="PRADO Template" />
-      <mapping ext="tpl" type="Smarty" />
-    </extensionMap>
-  </component>
-</application>
