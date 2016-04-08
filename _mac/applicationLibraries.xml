@@ -318,6 +318,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.5/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails-6.3.6 (v6.3.6, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6/vendor" />
+      </SOURCES>
+    </library>
     <library name="backports (v3.6.7, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/backports-3.6.7/lib" />
@@ -3453,6 +3464,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.2/hide_lib_for_update" />
       </SOURCES>
     </library>
+    <library name="rubygems-update-2.6.3 (v2.6.3, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/util" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/hide_lib_for_update" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/util" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/rubygems-update-2.6.3/hide_lib_for_update" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.2.19, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sass-3.2.19/bin" />
@@ -3731,6 +3757,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sprockets-2.12.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sprockets-2.12.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-3.6.0 (v3.6.0, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-helpers (v1.1.0, rbenv: 2.2.2) [gem]">
