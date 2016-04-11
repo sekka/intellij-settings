@@ -1662,10 +1662,12 @@
     </library>
     <library name="io-console (v0.4.5, rbenv: 2.2.2) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/io-console/0.4.5" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/io-console-0.4.5/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/io-console/0.4.5" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/io-console-0.4.5/lib" />
       </SOURCES>
     </library>
