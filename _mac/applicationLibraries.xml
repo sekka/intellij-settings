@@ -2928,6 +2928,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-3.0/support" />
       </SOURCES>
     </library>
+    <library name="mime-types-3.1 (v3.1, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2015.1120, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2015.1120/lib" />
@@ -2948,6 +2957,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data-3.2016.0521 (v3.2016.0521, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mini_portile (v0.6.2, rbenv: 2.2.2) [gem]">
@@ -4670,6 +4690,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/test-unit-3.1.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/test-unit-3.1.8/sample" />
+      </SOURCES>
+    </library>
+    <library name="test-unit-3.1.9 (v3.1.9, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/test-unit-3.1.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/test-unit-3.1.9/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/test-unit-3.1.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/test-unit-3.1.9/sample" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, rbenv: 2.2.2) [gem]">
