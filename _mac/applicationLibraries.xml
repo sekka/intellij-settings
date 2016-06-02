@@ -367,6 +367,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.1/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails-6.3.6.2 (v6.3.6.2, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="babel-source-5.8.35 (v5.8.35, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/babel-source-5.8.35/lib" />
@@ -2815,6 +2826,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.8/fixtures" />
       </SOURCES>
     </library>
+    <library name="middleman-core-4.1.9 (v4.1.9, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.9/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.9/fixtures" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.9/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-core-4.1.9/fixtures" />
+      </SOURCES>
+    </library>
     <library name="middleman-livereload (v3.1.1, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/middleman-livereload-3.1.1/lib" />
@@ -3428,6 +3452,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/parser-2.3.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/parser-2.3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser-2.3.1.2 (v2.3.1.2, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/parser-2.3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/parser-2.3.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/parser-2.3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/parser-2.3.1.2/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, rbenv: 2.2.2) [gem]">
