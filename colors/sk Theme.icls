@@ -526,6 +526,9 @@
         <option name="FOREGROUND" value="c3e887" />
       </value>
     </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
