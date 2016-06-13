@@ -1218,6 +1218,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value />
+    </option>
+    <option name="RUBY_LINE_CONTINUATION">
+      <value />
+    </option>
     <option name="SASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c2c8d7" />
