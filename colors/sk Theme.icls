@@ -1224,6 +1224,18 @@
     <option name="RUBY_LINE_CONTINUATION">
       <value />
     </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="90d7" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="6ee4ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="SASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c2c8d7" />
