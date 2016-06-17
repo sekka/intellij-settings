@@ -2407,6 +2407,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.0.71.48.3-x86_64-darwin-14/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8-5.1.281.59.1-x86_64-darwin-14 (v5.1.281.59.1, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.1.281.59.1-x86_64-darwin-14/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.1.281.59.1-x86_64-darwin-14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.1.281.59.1-x86_64-darwin-14/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.1.281.59.1-x86_64-darwin-14/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.1.281.59.1-x86_64-darwin-14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/libv8-5.1.281.59.1-x86_64-darwin-14/vendor" />
+      </SOURCES>
+    </library>
     <library name="listen (v2.10.1, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/listen-2.10.1/bin" />
