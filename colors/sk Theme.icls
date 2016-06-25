@@ -5,7 +5,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_NAME" value="Source Han Code JP" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <console-font>
@@ -524,6 +524,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="c3e887" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="BACKGROUND" value="303030" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
