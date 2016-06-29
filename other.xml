@@ -49,7 +49,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="$USER_HOME$/.nodebrew/current/bin/node">
-      <version-cache version="4.4.5" last-modified="1464111020000" />
+      <version-cache version="4.4.6" last-modified="1466654889000" />
     </local-interpreter>
   </component>
 </application>
