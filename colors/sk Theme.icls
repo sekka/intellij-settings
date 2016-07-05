@@ -390,6 +390,12 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="73abff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
@@ -437,6 +443,12 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="546e7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="73abff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -1218,6 +1230,12 @@
       <value>
         <option name="FOREGROUND" value="73abff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="73abff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_IDENTIFIER">
