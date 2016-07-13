@@ -5,7 +5,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_NAME" value="Source Han Code JP" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <console-font>
@@ -390,6 +390,12 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="73abff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
@@ -437,6 +443,12 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="546e7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="73abff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -524,6 +536,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="c3e887" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="BACKGROUND" value="303030" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -1213,6 +1230,32 @@
       <value>
         <option name="FOREGROUND" value="73abff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value />
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="777777" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_LINE_CONTINUATION">
+      <value />
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="6ba1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="73abff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_IDENTIFIER">
