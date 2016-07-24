@@ -1,5 +1,5 @@
 <scheme name="sk Theme" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monaco" />
@@ -53,7 +53,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
-    <option name="WHITESPACES" value="2e3c43" />
+    <option name="WHITESPACES" value="4f6278" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
   </colors>
   <attributes>
