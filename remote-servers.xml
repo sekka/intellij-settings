@@ -3,6 +3,7 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="composeExecPath" value="$USER_HOME$/src/github.com/sekka/201608-10_kaztora/docker-compose.yml" />
       </configuration>
     </remote-server>
   </component>
