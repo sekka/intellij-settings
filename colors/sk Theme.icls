@@ -747,21 +747,13 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH">
-      <value>
-        <option name="FOREGROUND" value="4879ff" />
-      </value>
-    </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
     <option name="JADE_JS_BLOCK">
       <value>
         <option name="FOREGROUND" value="6f82d2" />
       </value>
     </option>
-    <option name="JADE_STATEMENTS">
-      <value>
-        <option name="FOREGROUND" value="80512b" />
-      </value>
-    </option>
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
