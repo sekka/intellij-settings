@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="tpl" type="PHP" />
+      <mapping pattern=".zshenv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
