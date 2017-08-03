@@ -1,9 +1,68 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="SASS" injector-id="java">
+      <display-name>Node (javafx.scene)</display-name>
+      <prefix>javafx_dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setStyle").definedInClass("javafx.scene.Node"))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="java">
+      <display-name>Node (javafx.scene)</display-name>
+      <prefix>javafx_dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setStyle").definedInClass("javafx.scene.Node"))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>*</display-name>
+      <place><![CDATA[xmlTag()]]></place>
+    </injection>
+    <injection language="SASS" injector-id="xml">
+      <display-name>*/@style</display-name>
+      <prefix>dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).inside(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+      <apply-to-subtags />
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>*/@style</display-name>
+      <prefix>dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).inside(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+      <apply-to-subtags />
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>gva-curation-10</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("gva-curation-10")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>style</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("style"))]]></place>
+      <xpath-condition>lower-case(@type)='scss'</xpath-condition>
+    </injection>
+    <injection language="SASS" injector-id="xml">
+      <display-name>style</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+      <xpath-condition>lower-case(@type)='scss'</xpath-condition>
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>style in .fxml</display-name>
+      <prefix>javafx_dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("<none>"))]]></place>
+    </injection>
+    <injection language="SASS" injector-id="xml">
+      <display-name>style in .fxml</display-name>
+      <prefix>javafx_dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("<none>"))]]></place>
+    </injection>
+    <injection language="SASS" injector-id="xml">
+      <display-name>style/@type</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("type")).withParent(xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>style/@type</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("type")).withParent(xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
