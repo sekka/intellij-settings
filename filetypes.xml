@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="tpl" type="PHP" />
       <mapping pattern=".zshenv" type="PLAIN_TEXT" />
+      <mapping pattern="_head" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
