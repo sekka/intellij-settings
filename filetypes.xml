@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="_head" type="PLAIN_TEXT" />
       <mapping pattern=".zshenv" type="PLAIN_TEXT" />
