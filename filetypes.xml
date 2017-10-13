@@ -5,6 +5,7 @@
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="blank" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".zshenv" type="PLAIN_TEXT" />
       <mapping pattern="_head" type="PLAIN_TEXT" />
     </extensionMap>
