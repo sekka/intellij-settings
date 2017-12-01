@@ -2,10 +2,9 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Source Han Code JP" />
   <option name="CONSOLE_FONT_NAME" value="Source Han Code JP" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Han Code JP" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -110,18 +109,27 @@
         <option name="FOREGROUND" value="f36e3a" />
       </value>
     </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="6dc2b8" />
+      </value>
+    </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="323232" />
-        <option name="BACKGROUND" value="32424a" />
-        <option name="EFFECT_COLOR" value="aaaaaa" />
+        <option name="FOREGROUND" value="3a3b3e" />
+        <option name="BACKGROUND" value="6dc2b8" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="6dc2b8" />
+        <option name="BACKGROUND" value="3a3b3e" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="aaaaaa" />
-        <option name="BACKGROUND" value="32424a" />
-        <option name="EFFECT_COLOR" value="c8c8c8" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
