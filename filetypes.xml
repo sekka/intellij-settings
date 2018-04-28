@@ -2,17 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="tpl" type="PHP" />
       <mapping pattern="_separator" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="_head" type="PLAIN_TEXT" />
       <mapping pattern=".zshenv" type="PLAIN_TEXT" />
       <mapping pattern="blank" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="tmux-pane-border" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
