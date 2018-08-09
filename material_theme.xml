@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
+    <option name="version" value="2.7.2" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
@@ -12,5 +12,6 @@
     <option name="compactDropdowns" value="true" />
     <option name="userId" value="-6e183814:164a648bb33:-7fff" />
     <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
