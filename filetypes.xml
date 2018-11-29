@@ -1,21 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="css" approved="true" type="CSS" />
+      <removed_mapping ext="css" type="CSS" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="_separator" type="PLAIN_TEXT" />
+      <mapping pattern="tmux-pane-border" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="_head" type="PLAIN_TEXT" />
       <mapping pattern=".zshenv" type="PLAIN_TEXT" />
       <mapping pattern="blank" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="tmux-pane-border" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitcommit_template" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
-      <mapping ext="css" type="PostCSS" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
+      <removed_mapping ext="css" type="CSS" />
     </extensionMap>
   </component>
 </application>
