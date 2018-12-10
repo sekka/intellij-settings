@@ -1,17 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
-    <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="009688" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="userId" value="-6e183814:164a648bb33:-7fff" />
-    <option name="version" value="3.0.0-rc4" />
+    <option name="accentColor" value="6db6e9" />
+    <option name="userId" value="51dd2e0f:16796f76ad6:-8000" />
+    <option name="version" value="3.1.0" />
   </component>
 </application>

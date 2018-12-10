@@ -2,17 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="_separator" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="_head" type="PLAIN_TEXT" />
-      <mapping pattern=".zshenv" type="PLAIN_TEXT" />
-      <mapping pattern="blank" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="tmux-pane-border" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern=".gitcommit_template" type="PLAIN_TEXT" />
-      <mapping ext="vim" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
