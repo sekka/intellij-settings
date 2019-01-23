@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <removed_mapping ext="css" approved="true" type="CSS" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="css" type="PostCSS" />
+      <mapping ext="css" type="PLAIN_TEXT" />
       <removed_mapping ext="css" approved="true" type="CSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
