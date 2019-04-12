@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".zshenv" type="PLAIN_TEXT" />
       <mapping ext="css" type="PostCSS" />
       <removed_mapping ext="css" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
